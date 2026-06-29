@@ -3,6 +3,7 @@ from datetime import datetime as dt
 import pandas
 import random
 import smtplib
+import os
 
 
 """MY_EMAIL = "YOUR EMAIL"
